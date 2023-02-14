@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-stickers-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "mime-types": "^2.1.35",
+    "puppeteer": "^19.2.2",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.31.2",
+    "whatsapp-web.js": "^1.19.4"
+  }
+}
